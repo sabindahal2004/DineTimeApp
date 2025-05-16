@@ -2,7 +2,6 @@ import {
   View,
   Text,
   TouchableOpacity,
-  ScrollView,
   Image,
   StatusBar,
 } from 'react-native';
